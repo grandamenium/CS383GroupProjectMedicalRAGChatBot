@@ -5,5 +5,15 @@ env/
 ENV/
 .env/
 .venv/
+
 # DDX Dataset
 DDXPlus Dataset/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configurations
+.env
+.DS_Store
