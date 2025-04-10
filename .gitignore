@@ -1,0 +1,9 @@
+# Python virtual environment
+groupproject2/
+venv/
+env/
+ENV/
+.env/
+.venv/
+# DDX Dataset
+DDXPlus Dataset/
